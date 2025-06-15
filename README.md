@@ -30,3 +30,7 @@ After having loaded data into a Spark DataFrame, I performed schema inspection t
 I used a mixture of PySpark DataFrame operations such as `.groupBy()`, `.agg()`, `.filter()`, and `.orderBy()` to extract and condense important information. In some parts of the notebook, I converted Spark DataFrames to Pandas for display purposes. Using matplotlib and seaborn, I produced bar plots and line plots to show delay patterns in airlines and airports.
 
 The whole analysis was performed efficiently making use of the distributed computing power of PySpark. Not only did this give me firsthand experience in handling big data, but it also improved my understanding of handling Spark in cloud-based environments like Colab. I understood handling Spark sessions, data loading efficiently, runtime error debugging, and interpreting analytical outputs.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/208d602d-5cab-4578-bd06-b5fcc5499608)
