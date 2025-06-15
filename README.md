@@ -13,7 +13,7 @@
  
  *MENTOR*: NEELA SANTOSH
 
- DESCRIPTION OF TASK 1: During my internship with CodTech IT Solutions under the guidance of my mentor Neela Santosh, I was assigned a task in Big Data, specifically on PySpark. My main task was to execute a complete pipeline of data analysis utilizing PySpark in Google Colab. The dataset provided had data for flights and delays for a huge number of scheduled commercial flights.
+ DESCRIPTION OF TASK 1: During my internship with CodTech IT Solutions under the guidance of my mentor Neela Santosh, I was assigned a task in Big Data, specifically on PySpark. My main task was to execute a complete pipeline of data analysis utilizing PySpark in Google Colab. I used the Flight Delay and Cancellation Dataset. The dataset provided had data for flights and delays for a huge number of scheduled commercial flights.
 
 To start with, I set up the Spark environment in Google Colab. This involved the installation of Java, download of a suitable Apache Spark version (Spark 3.3.0 with Hadoop 3), and establishment of environment variables. I also used the `findspark` package to integrate Spark with the Python ecosystem without any issues. Upon finishing the setup process, I mounted Google Drive so that I could access the dataset uploaded in CSV format. The information included some columns such as flight date, airline name, source and destination, scheduled and actual departure and arrival time, delay time, reasons for cancellations, etc.
 
